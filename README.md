@@ -23,7 +23,7 @@
 --- 
 <br><br>
 # 💫 About Me:
-🔭 I’m currently working as a Freelancer<br>👯 I’m looking to collaborate on Open Source Projects<br>🌱 I’m currently learning React Framework<br>💬 Ask me about Open Source Intelligence<br>⚡ Fun fact: I'm in a healthy relationship with coffee
+🔭 I’m currently working as a Freelancer<br>👯 I’m looking to collaborate on Open Source Projects<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about Open Source Intelligence<br>⚡ Fun fact: I'm in a healthy relationship with coffee
 
 <br><br>
 # 💻 Tech Stack:
